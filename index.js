@@ -78,13 +78,4 @@ function add_number(random_str) {
 
             right.setAttribute('data-index', (index + 1).toString());
         }
-    // }
-    // else {
-    //     last[index].innerHTML = random_str;
-    //     right.setAttribute('data-index', (index + 1).toString());
-    //     last[index].style.display = "block";
-    //     last[index].onclick = function () {
-    //         print_stat(last[index].innerHTML);
-    //     }
-    // }
 }
